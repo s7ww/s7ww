@@ -22,4 +22,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/s7ww/HOme_SERVER">Home Server using Fedora</a>
 - <a href="https://github.com/s7ww/comtext">COLLABORATIVE CODING PLATFORM</a>
+- <a href="https://github.com/s7ww/Transparent-no_background-Countodwn-timer">NO BACKGROUND COUNTDOWN TIMER </a>
+- <a href="https://github.com/s7ww/mp4-to-mp3-converision-using-java-and-ffmpeg">MP4 to MP3 using ffmpeg</a>
 
